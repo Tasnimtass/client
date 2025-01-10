@@ -15,7 +15,7 @@ const App=()=> {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>{message || 'Chargement ...'}</p> 
+        <p>{message || 'Chargement ok ok ...'}</p> 
       </header>
     </div>
   );
